@@ -1,0 +1,27 @@
+# Java/Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Kafka/Zookeeper logs
+logs/
+*.log
+checkpoint
+*.snapshot
+*.index
+*.timeindex
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
